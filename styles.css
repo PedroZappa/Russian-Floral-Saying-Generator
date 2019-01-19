@@ -1,0 +1,55 @@
+
+body {
+  background-color: #871717;
+  color: #E10808;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  box-shadow:  2px 2px 40px #FFDA47;
+  margin: 0rem 7rem;
+  padding: 1rem;
+  /* text-shadow: 1rem; */
+}
+
+h3 {
+  color: #FFD5D5;
+}
+
+button {
+  border-radius: 1rem;
+  box-shadow:  2px 2px 40px #FFDA47;
+}
+
+#generate {
+  background-color: #E10808;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem 4rem;
+}
+
+/* Sections */
+
+header {
+  margin: 6rem 0rem 10rem;
+}
+
+main {
+  margin: 8rem;
+}
+
+button-container {
+  margin: 2rem;
+}
+
+/*  */
+
+.trademark {
+  color: #BC9D9D;
+  font-size: 0.8rem;
+  padding: 10rem 1rem 1rem;
+  margin: 0;
+  text-align: center;
+}
